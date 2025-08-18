@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/yryudaif/pizzeria/issues"
   },
-  "homepage": "https://github.com/yryudaif/pizzeria#readme"
+  "homepage": "https://github.com/yryudaif/pizzeria#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.12",
+    "tailwindcss": "^4.1.12"
+  }
 }
